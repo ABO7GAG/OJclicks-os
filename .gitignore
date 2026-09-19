@@ -8,3 +8,5 @@ build/
 iso/
 bochsout.txt
 snapshot.txt
+*.zip
+*.txt
